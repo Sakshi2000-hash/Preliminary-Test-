@@ -1,0 +1,27 @@
+body {
+            background-color: black;
+        }
+    
+    
+        .const {
+    
+            background-color: black;
+    
+        }
+    
+        .col {
+            font-size: 10px;
+    
+        }
+    .fa {
+            padding: 6px;
+            font-size: 20px;
+            width: 10px;
+            text-align: center;
+            text-decoration: none;
+            margin: 5px 2px;
+            border-radius: 50%;
+        }
+        
+        
+    
