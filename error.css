@@ -1,0 +1,82 @@
+ .cont {
+            font-size: 27px;
+            height: 182px;
+            font-family: "Arial, Helvetica, sans-serif";
+            color:blue;
+        }
+
+@media screen and (max-width : 320px){
+    body{
+        background-color: black;
+    }
+    
+    .navbar-brand{
+        font-size:20px;
+        
+        margin: 0;
+        padding:0;
+        
+    }
+    .navbar-brand:hover{
+      color:rgb(4, 40, 65);
+      
+    }
+    .navbar-item{
+        font-size: 15px;
+        float:left;
+        margin: 0;
+       padding:0;
+       text-align: left;
+
+    }
+    .btn{
+        
+        font-size: 10px;
+
+    }
+    
+    .btn-group{
+        
+        margin: 0;
+        padding: 0;
+    }
+    
+    .Home{
+        margin: 1;
+        padding: 1;
+    }
+    .TC{
+        margin: 0;
+        padding: 0;
+
+    }
+    .PP{
+        margin: 0;
+        padding: 0;
+    }
+    .CS {
+       display:none;
+    }
+    .MA{
+        display: none;
+    }
+    .Help{
+        display: none;
+    }
+    .text1{
+        font-size: 10px;
+    }
+    .fa{
+        font-size: 12px;
+        color:rgb(30, 30, 209);
+        padding:1px;
+    }
+    .imagewithbrand img{
+        width:30px;
+    }
+    .cont{
+        font-size: 20px;
+        background-color: honeydew;
+    }
+   
+}
